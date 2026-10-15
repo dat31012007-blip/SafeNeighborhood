@@ -24,4 +24,4 @@ Link: https://www.figma.com/make/Q3F3EYAw5HoFgc2YPqz8SQ/Design-System-for-SafeNe
 7. Link video
 Link: https://youtu.be/pIK7syAQof0
 8. Link GitHub
-Link:
+Link:https://github.com/dat31012007-blip/SafeNeighborhood.git
